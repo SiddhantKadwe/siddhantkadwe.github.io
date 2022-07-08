@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* B.E. in Mechanical Engineering, Savitribai Phule Pune University, 2019
 * M.S. in Robotic Systems Engineering, RWTH Aachen Univeristy, 2023 (expected)
+* B.E. in Mechanical Engineering, Savitribai Phule Pune University, 2019
 
 Research
 ======
