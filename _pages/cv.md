@@ -16,19 +16,22 @@ Education
 
 Research
 ======
-I am interested in development of robotic systems, optimization, machine learning and controls.
+I am interested in development of robotic systems, control systems, optimization, machine learning.
 
 Work experience
 ======
-* Summer 2022: Robotics Intern
-  * [German Aerospace Center (DLR)](https://www.dlr.de/rm/en/desktopdefault.aspx/tabid-8017)
-  * Project: Optimization of Robot Trajectories in GPU
+* Robotics Research Assistant, [German Aerospace Center (DLR)](https://www.dlr.de/rm/en/desktopdefault.aspx/tabid-8017), July 2022 - Present
   * Supervisor: Dr. Roberto Lampariello
+  * Project: Optimization of Robot Trajectories in GPU
 
-* Summer and Winter 2021: Graduate Student Research Assistant (HiWi)
-  * [Cybernetics Lab, RWTH Aachen University](https://cybernetics-lab.de/)
-  * Project: [MOCVD4.2](https://cybernetics-lab.de/en/projects/mocvd4-2)
+* Robotics Intern, [German Aerospace Center (DLR)](https://www.dlr.de/rm/en/desktopdefault.aspx/tabid-8017), April 2022 - June 2022
+  * Supervisor: Dr. Roberto Lampariello
+  * Project: Optimization of Robot Trajectories in GPU
+
+* Graduate Student Research Assistant (HiWi), [Cybernetics Lab, RWTH Aachen University](https://cybernetics-lab.de/), May 2021 - January 2022
   * Supervisor: [Mr. Marco Kemmerling](http://kemmerling.me/)
+  * Project: [MOCVD4.2](https://cybernetics-lab.de/en/projects/mocvd4-2)
+  
   
 Skills
 ======
