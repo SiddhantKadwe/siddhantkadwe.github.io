@@ -50,7 +50,7 @@ atom_feed:
   path                   : # blank (default) uses feed.xml
 
 # SEO Related
-google_site_verification :
+google-site-verification: google8f270fc08f07df32.html
 bing_site_verification   :
 alexa_site_verification  :
 yandex_site_verification :
@@ -84,10 +84,10 @@ author:
   avatar           : "me.jpeg"
   bio              : "Robotics Researcher"
   location         : "Bremen, Germany"
-  employer         : "DFKI"
+  employer         : "[DFKI](https://robotik.dfki-bremen.de/en/startpage)"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            : "siddhant.kadwe@rwth-aachen.de"
+  email            : "siddhantkadwe@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -102,11 +102,11 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "www.linkedin.com/in/siddhant-kadwe"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : "https://stackoverflow.com/users/16016658/siddhant-kadwe"
   steam            :
   tumblr           :
   twitter          : #"replacethistwitterhandle"
@@ -255,7 +255,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Europe/Berlin # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
