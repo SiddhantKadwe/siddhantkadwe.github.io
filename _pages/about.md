@@ -8,13 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-Hello everyone, thank you for visiting my webpage!
+Hello everyone, Welcome to my webpage!
 
-I am a MSc. RoboSys student at the RWTH Aachen University, Germany and currently also working as a robotics intern at the German Aerospace Center (DLR). I work on Nonlinear optimization of robot trajectories in GPUs.
+I'm currently a scientific researcher at the Robotics Innovation Center of the German Research Center for Artificial Intelligence (DFKI), specializing in trajectory optimization, optimal controls, and mobile manipulation. With a background in robotics and a master's degree in Robotic Systems Engineering from RWTH Aachen University, I'm dedicated to advancing the field of robotics and exploring its applications in space technology.
 
-I completed my bachelors in Mechanical Engineering from Savitribai Phule Pune University in 2019. During my undergrad, I have participated in various competitions such as "Intercollegiate Rocket Engineering Competition (IREC)", organized by Experimental Sounding Rocket Association and Spaceport America; "Texas Instruments India Innovation Challenge" by you guessed it right! Texas Instruments and Government of India; "Aero Design Challenge" by Society of Automotive Engineers and many more...
+During my career, I've had the opportunity to work on fascinating projects, including trajectory optimization for free-floating space robots using GPUs during my internship and master's thesis at the Institute of Robotics and Mechatronics of the German Aerospace Center. Additionally, I've gained valuable experience as a graduate student research assistant at the Cybernetics lab of RWTH, focusing on predictive maintenance and software development.
 
-I am an avid traveller, likes cooking and a newbie to 10 mins Chess.
+During my Bachelor's degree in Mechanical Engineering from Pune University, I actively participated in multiple national and international competitions, where my team and I built projects such as sounding rockets, unmanned aerial vehicles, and IoT devices. These experiences nurtured my love for innovation and teamwork, which I bring to my current work in robotics research.
 
-If you have any amazing ideas or projects and would like to collaborate, feel free to message me on LinkedIn or via email :)
+Beyond my professional life, I have a range of hobbies that keep me inspired and well-rounded. Music, chess, startups, cooking, and traveling are all significant passions of mine. I find music to be a great source of relaxation and creativity, while chess challenges my strategic thinking. I'm also intrigued by startups and the potential for innovation to shape our future. Lastly, cooking and traveling allow me to explore diverse cultures and expand my horizons.
 
+I'm deeply passionate about research in robotics and space technology and constantly seek new opportunities to contribute to groundbreaking projects. If you share similar interests or would like to discuss potential collaborations, I invite you to connect with me. Let's work together to create a future where robotics and space technology revolutionize our world.
