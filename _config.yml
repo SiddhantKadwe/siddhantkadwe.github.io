@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Siddhant Kadwe"
   avatar           : "me.jpeg"
-  bio              : "Robotics Intern at German Aerospace Center"
-  location         : "Munich, Germany"
-  employer         :
+  bio              : "Robotics Researcher"
+  location         : "Bremen, Germany"
+  employer         : "German Research Center for Artificial Intelligence"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            : "siddhant.kadwe@rwth-aachen.de"
