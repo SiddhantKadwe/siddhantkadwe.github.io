@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* M.S. in Robotic Systems Engineering, [RWTH Aachen Univeristy](https://www.rwth-aachen.de/go/id/a/?lidx=1), 2023 (expected)
-* B.E. in Mechanical Engineering, [Savitribai Phule Pune University](http://www.unipune.ac.in/), 2019
+* M.S. in Robotic Systems Engineering, [RWTH Aachen Univeristy](https://www.rwth-aachen.de/go/id/a/?lidx=1), April 2023
+* B.E. in Mechanical Engineering, [Savitribai Phule Pune University](http://www.unipune.ac.in/), June 2019
 
 Research
 ======
@@ -20,11 +20,15 @@ I am interested in development of robotic systems, control systems, optimization
 
 Work experience
 ======
-* Robotics Research Assistant, [German Aerospace Center (DLR)](https://www.dlr.de/rm/en/desktopdefault.aspx/tabid-8017), July 2022 - Present
+
+* Scientific Researcher, [German Research Center for Artificial Intelligence (DFKI)](https://robotik.dfki-bremen.de/en/startpage), May 2023 - Present
+  * Running Project(s): [PerSim](https://robotik.dfki-bremen.de/en/research/projects/persim) 
+
+* Master Thesis, [German Aerospace Center (DLR)](https://www.dlr.de/rm/en/desktopdefault.aspx/tabid-8017), October 2022 - March 2023
   * Supervisor: Dr. Roberto Lampariello
   * Project: Optimization of Robot Trajectories in GPU
 
-* Robotics Intern, [German Aerospace Center (DLR)](https://www.dlr.de/rm/en/desktopdefault.aspx/tabid-8017), April 2022 - June 2022
+* Robotics Project, [German Aerospace Center (DLR)](https://www.dlr.de/rm/en/desktopdefault.aspx/tabid-8017), April 2022 - September 2022
   * Supervisor: Dr. Roberto Lampariello
   * Project: Optimization of Robot Trajectories in GPU
 
@@ -44,5 +48,5 @@ Skills
   * cuSolver, Magma, ViennaCL, ArrayFire
 * MATLAB-Simulink
 * Fortran
-* Solidworks
-* Robot Operating System (ROS)
+* Solidworks, Blender
+* ROS, Gazebo, ROCK, MARS
